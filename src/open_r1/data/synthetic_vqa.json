@@ -1,0 +1,503 @@
+[
+    {
+      "question_id": 1,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 2,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 3,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 4,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 5,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 6,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 7,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 8,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 9,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 10,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 11,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 12,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 13,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 14,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 15,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 16,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 17,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 18,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 19,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 20,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 21,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 22,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 23,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 24,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 25,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 26,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 27,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 28,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 29,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 30,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 31,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 32,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 33,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 34,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 35,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 36,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 37,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 38,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 39,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 40,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 41,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 42,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 43,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 44,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 45,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 46,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 47,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 48,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 49,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 50,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 51,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 52,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 53,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 54,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 55,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 56,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 57,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 58,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 59,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 60,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 61,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 62,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 63,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 64,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 65,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 66,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 67,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 68,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 69,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 70,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 71,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 72,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 73,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 74,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 75,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 76,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 77,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 78,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 79,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 80,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 81,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 82,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 83,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 84,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 85,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 86,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 87,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 88,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 89,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 90,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    },
+    {
+      "question_id": 91,
+      "instruction": "Image: A bustling city street with bright neon lights and busy pedestrians. Question: What time of day is depicted in the image?",
+      "answer": "It appears to be nighttime."
+    },
+    {
+      "question_id": 92,
+      "instruction": "Image: A quiet suburban neighborhood at dusk with warm lighting. Question: What time of day does the image suggest?",
+      "answer": "It is evening."
+    },
+    {
+      "question_id": 93,
+      "instruction": "Image: A scenic mountain landscape with snow on the peaks and clear blue skies. Question: What season is likely represented in the image?",
+      "answer": "It looks like winter."
+    },
+    {
+      "question_id": 94,
+      "instruction": "Image: A sunny beach with clear turquoise water and people playing. Question: What type of weather is shown in the image?",
+      "answer": "It is a bright and sunny day."
+    },
+    {
+      "question_id": 95,
+      "instruction": "Image: A dense forest with sunlight filtering through the trees and a carpet of green leaves. Question: What natural element is most noticeable in the image?",
+      "answer": "The interplay of light and shadow in the forest."
+    },
+    {
+      "question_id": 96,
+      "instruction": "Image: A lively market street filled with colorful stalls and busy vendors. Question: What cultural atmosphere does the image convey?",
+      "answer": "It shows a vibrant and diverse community."
+    },
+    {
+      "question_id": 97,
+      "instruction": "Image: A quiet library with rows of books and soft lighting. Question: What activity is most likely taking place in this scene?",
+      "answer": "People are reading or studying."
+    },
+    {
+      "question_id": 98,
+      "instruction": "Image: A packed sports stadium with cheering fans and bright lights. Question: What event is most likely happening in the image?",
+      "answer": "A live sports match is occurring."
+    },
+    {
+      "question_id": 99,
+      "instruction": "Image: A calm lake reflecting the surrounding mountains and a clear sky. Question: What is the dominant natural feature in the scene?",
+      "answer": "The lake and its reflective quality."
+    },
+    {
+      "question_id": 100,
+      "instruction": "Image: A bustling urban park with families enjoying a sunny day and children playing. Question: What overall atmosphere is depicted in the image?",
+      "answer": "The scene is lively and joyful."
+    }
+  ]
+  
